@@ -1,2 +1,2 @@
-# Unified CPU Sceduling System using java 
-For Buffer6.0 Project of Unified CPU Sceduling System.
+# CPU Sceduling System using java 
+"Created  Unified CPU Sceduling System For Different System Simulation."
