@@ -1,9 +1,9 @@
 # CPU Sceduling System using java 
 "Created  Unified CPU Sceduling System For Different System Simulation."
-# Discription
+# Discription:
 This Java-based project brings together a bunch of real-world scheduling systems into one unified simulation—think hospitals, restaurants, call centers, ride-sharing apps, sports tournaments, and cloud job schedulers. Each module works like its real-life counterpart, using classic CPU scheduling algorithms like FCFS, SJF, Round Robin, and Priority to manage queues and tasks efficiently. The whole system runs through a simple, interactive command-line interface, and everything is built using custom data structures to really mimic how things work under the hood. The goal is to show how smart scheduling can solve all kinds of problems, all in one clean, modular Java framework.
 
-# Data Structures Used in the Unified CPU Scheduling System
+# Data Structures Used:
 1.Queue (FIFO):
 Used in several modules such as the Hospital Queue System, Restaurant Order System, Call Center System, and Ride Sharing System. It's ideal for handling processes in the order they arrive, ensuring fairness and real-time responsiveness.
 
